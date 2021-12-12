@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nuan
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning Git
+- 💞️ I’m looking to work for myself
